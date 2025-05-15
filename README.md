@@ -12,7 +12,7 @@
 ---
 
 ## 🧠 My Projects:
-- 📊 **EDA Project** – Performed data cleaning, outlier detection, and insightful visualizations (Check it out in my pinned repos!)
+- 📊 **EDA Project** – Performed data cleaning, outlier detection, and insightful visualizations [Market Campaign Project (EDA)](https://github.com/RajguruDs/Market-Campaign-Project-EDA-.git)
 - 🧹 **Data Cleaning Notebook** – Hands-on practice with missing values, duplicates, and data types
 ---
 
