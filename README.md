@@ -12,9 +12,9 @@
 ---
 
 ## 🧠 My Projects:
-- 📊 **EDA Project** – Performed data cleaning, outlier detection, and insightful visualizations [Market Campaign Project (EDA)](https://github.com/RajguruDs/Market-Campaign-Project-EDA-.git)
-- 🧹 **Data Cleaning Notebook** – Hands-on practice with missing values, duplicates, and data types
----
+- 📊 **EDA Project** – Performed data cleaning, outlier detection, and insightful visualizations
+- [Market Campaign Project (EDA)](https://github.com/RajguruDs/Market-Campaign-Project-EDA-.git)  
+- [Sales Analysis (EDA)](https://github.com/RajguruDs/Sales-Analysis.git)
 
 ## 🔧 Tech Stack:
 - Languages: Python, JavaScript (Basic)
